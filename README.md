@@ -1,1 +1,1 @@
-# Coding_Ninjas_Introduction_to_c_plus_plus
+# Coding_Ninjas_Introduction_to_c++
